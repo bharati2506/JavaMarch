@@ -31,10 +31,10 @@ public class objconstruct {
 			System.out.println("Four parameterized constructor");
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
-		objconstruct construct = new objconstruct(10,20); //2 param
-		
+		//objconstruct ob= new objconstruct();
 		
 		
 	}
